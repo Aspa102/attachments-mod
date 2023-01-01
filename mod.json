@@ -1,0 +1,16 @@
+{
+  "Name": "Extra Goofy Attachments",
+  "Author": "Aspa102",
+  "Description": "Adds extra attachments straight from the last two brain cells left within my skull.",
+  "ModVersion": "1.0",
+  "GameVersion": "1.26",
+  "ThumbnailPath": "horn view.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [],
+  "Scripts": [
+    "mod.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2910545512"
+}
